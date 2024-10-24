@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------
 | SIEM Implementation and Log Analysis          
 | Network Traffic Monitoring and Attack Detection 
-| Security Automation with Tines SOAR         
+| SOAR - Tines         
 | Incident Response Planning and Execution      
 | Case Management with TheHive                  
 | Scripting and Automation for Threat Mitigation 
