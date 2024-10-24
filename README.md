@@ -49,4 +49,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOC Automation Project
 - [SOAR EDR Project](https://github.com/malikmohmd/SOAR-EDR-Project)
 - [Vulnerability Scanning with Nmap: Network Scanning](https://github.com/malikmohmd/Vulnerability-Scanning-with-Nmap-Network-Scanning)
-- Wireshark for Beginners: TCP IP Protocol Fundamentals
+- [Wireshark for Beginners: TCP IP Protocol Fundamentals](https://github.com/malikmohmd/Wireshark-for-Beginners-TCP-IP-Protocol-Fundamentals)
